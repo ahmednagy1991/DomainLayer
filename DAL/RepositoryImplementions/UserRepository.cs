@@ -3,11 +3,8 @@ using DAL.DTO;
 using DAL.Infrastructure;
 using Service.Models;
 using Service.RepositoryAbstraction;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace DAL.RepositoryImplementions
 {
