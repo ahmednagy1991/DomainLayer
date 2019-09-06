@@ -14,7 +14,7 @@ namespace SampleArchitecutre2.Controllers
         }
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "";
             //var mode = _userService.Login("test", "testpass");
             //var val = mode.Validate();
             //var model = new UserModel();
