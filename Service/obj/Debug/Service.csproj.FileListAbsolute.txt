@@ -1,0 +1,6 @@
+c:\users\ahmednagy\source\repos\SampleArchitecutre2\Service\bin\Debug\Service.dll
+c:\users\ahmednagy\source\repos\SampleArchitecutre2\Service\bin\Debug\Service.pdb
+c:\users\ahmednagy\source\repos\SampleArchitecutre2\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\ahmednagy\source\repos\SampleArchitecutre2\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+c:\users\ahmednagy\source\repos\SampleArchitecutre2\Service\obj\Debug\Service.dll
+c:\users\ahmednagy\source\repos\SampleArchitecutre2\Service\obj\Debug\Service.pdb
